@@ -1,0 +1,7 @@
+
+
+# Ignorar carpetas de datos
+/data/features
+/data/predictions
+/data/preprocessed
+/data/stations
